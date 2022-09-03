@@ -5,4 +5,5 @@ package com.lw;
  */
 public class Persons {
     private int age ;
+    private int name;
 }
